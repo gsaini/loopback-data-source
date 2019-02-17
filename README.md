@@ -42,3 +42,7 @@ Now we’re going to define a data source using the Data source generator:
 `$ lb datasource`
 
 The generator will prompt you for the config properties of data source.
+
+# Demo -
+    - Mongo DB
+    - REST Datasource.
