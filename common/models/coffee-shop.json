@@ -3,7 +3,10 @@
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
-    "validateUpsert": true
+    "validateUpsert": true,
+    "mongodb": {
+      "collection": "CoffeeShop"
+    }
   },
   "properties": {
     "name": {
@@ -11,8 +14,7 @@
       "required": true
     },
     "city": {
-      "type": "string",
-      "required": true
+      "type": "string"
     }
   },
   "validations": [],
