@@ -14,9 +14,6 @@ See [Getting started with LoopBack](http://docs.strongloop.com/display/LB/Gettin
 
 [More LoopBack examples](https://github.com/strongloop/loopback-example)
 
-====================
-Steps -
-====================
 
 # Prerequisites -
 
