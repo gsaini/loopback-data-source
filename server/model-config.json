@@ -35,5 +35,9 @@
   "CoffeeShop": {
     "dataSource": "mongo",
     "public": true
+  },
+  "myModel": {
+    "dataSource": "myRESTdatasource",
+    "public": true
   }
 }
